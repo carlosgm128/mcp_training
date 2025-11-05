@@ -1,1 +1,4 @@
 fastmcp
+fastapi
+fastapi-mcp
+unicorn[standard]
