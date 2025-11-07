@@ -1,0 +1,11 @@
+{
+    "chat.mcp.serverSampling": {
+        "training/.vscode/mcp.json: calculator-HTTP": {
+            "allowedModels": [
+                "copilot/auto",
+                "copilot/gpt-4.1",
+                "copilot/gpt-4o"
+            ]
+        }
+    }
+}
